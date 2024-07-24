@@ -1,0 +1,204 @@
+{
+	"_id": {
+		"$oid": "669c325963d8674b62ad32de"
+	},
+	"name": "Naufal",
+	"email": "developer.naufal@gmail.com",
+	"role": "user",
+	"isSubmit": false,
+	"googleId": "118262904975166408947",
+	"confirmed": true,
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "669cc6d17ea83a7741735a7c"
+	},
+	"name": "Muhammad Naufal Rafianto",
+	"email": "mnaufalrafianto@gmail.com",
+	"role": "user",
+	"isSubmit": false,
+	"googleId": "115803354156687308255",
+	"confirmed": true,
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "669cf031eb3f7275b7847574"
+	},
+	"name": "Muhammad Fathi Farhat - 065",
+	"email": "farhat.fire@gmail.com",
+	"role": "user",
+	"isSubmit": true,
+	"googleId": "100208698064402522149",
+	"confirmed": true,
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "669d0180eb3f7275b784758a"
+	},
+	"name": "farhat 2",
+	"email": "blindheroes21@gmail.com",
+	"password": "$2b$10$MJvMiSU6m/g.t/8g31iGuOnOBfTcqg.bVANr8f182z4nijMQIMjsS",
+	"role": "user",
+	"isSubmit": true,
+	"confirmed": true,
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "669d0276eb3f7275b78475b8"
+	},
+	"name": "Muhammad Naufal",
+	"email": "naufal.rafianto22@gmail.com",
+	"password": "$2b$10$09mzbC/88UZpSp4x9zqm8e.4p.Po7hHcd2UjAVCLav2rOJVKWDr16",
+	"role": "user",
+	"isSubmit": true,
+	"confirmed": true,
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "669d187eeb3f7275b7847693"
+	},
+	"name": "Neo Perkamzin Test",
+	"email": "nehemia.nicholas@gmail.com",
+	"password": "$2b$10$21R3fp6RewCzy1jWh2RHgOauFax.6sl5TtQF1jtfKd7iTWSC15qgq",
+	"role": "user",
+	"isSubmit": false,
+	"confirmed": false,
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "669d3e03eb3f7275b784769a"
+	},
+	"name": "Testing1",
+	"email": "highmanxd@gmail.com",
+	"password": "$2b$10$MxpvIvsVHrHue8I34ggOHuVyaOdzrSqqJnsFMutOnAuuvwnjPrSeO",
+	"role": "user",
+	"isSubmit": false,
+	"confirmed": false,
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "669d3e42eb3f7275b78476a2"
+	},
+	"name": "Yochell",
+	"email": "yochellinoyuwen@gmail.com",
+	"role": "user",
+	"isSubmit": false,
+	"googleId": "102105949376006519324",
+	"confirmed": true,
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "669f9cdfeb3f7275b784773b"
+	},
+	"name": "Ibnu Abdillah Shihab",
+	"email": "ibnuabdillahs.1309@gmail.com",
+	"role": "user",
+	"isSubmit": false,
+	"googleId": "108701961974954086203",
+	"confirmed": true,
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "669fabcdeb3f7275b7847763"
+	},
+	"name": "rose toesy",
+	"email": "rosetoesy04@gmail.com",
+	"role": "user",
+	"isSubmit": false,
+	"googleId": "114870967974551285641",
+	"confirmed": true,
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "66a0a325eb3f7275b7847789"
+	},
+	"name": "Neysya Kartawijaya",
+	"email": "neysyamadea28@gmail.com",
+	"role": "user",
+	"isSubmit": false,
+	"googleId": "103366854254646126707",
+	"confirmed": true,
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "66a0a65eeb3f7275b784779e"
+	},
+	"name": "Davina Asya",
+	"email": "davinanabigh2@gmail.com",
+	"role": "user",
+	"isSubmit": false,
+	"googleId": "110417615040088266860",
+	"confirmed": true,
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "66a0c09feb3f7275b78477a9"
+	},
+	"name": "Krap",
+	"email": "fadghamaizarilpahri@gmail.com",
+	"role": "user",
+	"isSubmit": false,
+	"googleId": "112355065326461048890",
+	"confirmed": true,
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "66a0db7deb3f7275b78477bc"
+	},
+	"name": "Muhammad Aqsha Al Ghifari",
+	"email": "mhdaqshaalghifariaqsha@gmail.com",
+	"password": "$2b$10$KNvLQ43VUxZ1En.t7ZzXROwRUYSt6kQDj9D/yN5gZv4HY4iYoiA6.",
+	"role": "user",
+	"isSubmit": false,
+	"confirmed": false,
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "66a0f584eb3f7275b78477de"
+	},
+	"name": "Jihan Nadya Afifatul Chamidah ",
+	"email": "jihannadya42@gmail.com",
+	"password": "$2b$10$X59QoEFK4D4exFSxSEbci.lizZFtSePs7uPpLc40DzjyT9/KlS.GK",
+	"role": "user",
+	"isSubmit": false,
+	"confirmed": false,
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "66a0fc7feb3f7275b78477ea"
+	},
+	"name": "Evan Geoffrey Hariono",
+	"email": "evangeoffrey018@gmail.com",
+	"password": "$2b$10$rmj9s.8AU0uAyg4D4ldmR.40ClCoLoGrIxC7FgCHzFFkTG.nWwMPO",
+	"role": "user",
+	"isSubmit": false,
+	"confirmed": false,
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "66a10786eb3f7275b7847802"
+	},
+	"name": "NeoPerkamzin2",
+	"email": "nicholasit2102@gmail.com",
+	"password": "$2b$10$K9FxjnQirNrDQ6GsB1dclOclA9ykRCIJ/JbKMWb/JAeoKwnUWJ1ue",
+	"role": "user",
+	"isSubmit": false,
+	"confirmed": false,
+	"__v": 0
+}
